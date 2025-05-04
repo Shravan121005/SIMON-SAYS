@@ -3,6 +3,7 @@
 
 Welcome to the Simon Says Game! A memory-boosting web game where you repeat an ever-growing sequence of colors. With each level, one new tile is added — how far can you go?
 
+
 ✨ Features
 
 - 🟩 Four colorful buttons (Green, Red, Yellow, Blue)
@@ -15,6 +16,7 @@ Welcome to the Simon Says Game! A memory-boosting web game where you repeat an e
 
 - 🖥️ Smooth and responsive design using HTML, CSS & JS
 
+
 🛠️ Tech Stack
 
 - HTML5
@@ -22,6 +24,7 @@ Welcome to the Simon Says Game! A memory-boosting web game where you repeat an e
 - CSS3
 
 - JavaScript (Vanilla)
+
 
 🎮 How to Play
 
@@ -37,6 +40,7 @@ Welcome to the Simon Says Game! A memory-boosting web game where you repeat an e
 
 - Make a mistake? Game over and restart!
 
+
 📈 Future Improvements
 
 ➕ Add a scoreboard to track highest level
@@ -45,8 +49,10 @@ Welcome to the Simon Says Game! A memory-boosting web game where you repeat an e
 
 ➕ Save player progress using local storage
 
+
 🚀 Live Demo
-🔗 Check it out here: https://yourusername.github.io/simon-says-game/
+
+- 🔗 Check it out here: https://shravan121005.github.io/SIMON-SAYS/
 
 📢 Note
 
@@ -60,7 +66,8 @@ This project is built purely with frontend technologies and is a great practice 
 
 - Building responsive UIs
 
+
 🙌 Thank you for visiting!
 
-If you enjoyed playing, consider giving this project a ⭐ on GitHub!
+- If you enjoyed playing, consider giving this project a ⭐ on GitHub!
 Feel free to fork it, contribute, or share your version!
